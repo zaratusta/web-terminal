@@ -1,2 +1,2 @@
 # Web-terminal
-Remote CLI that echos you commands
+Remote CLI that echos your commands
